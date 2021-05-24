@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://nicolas:nico123@ieti-lab10.v1r0d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority

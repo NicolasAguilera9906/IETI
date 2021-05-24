@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="875c8780-0fb5-4ee3-a401-8eeb8dd08cfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/back/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/AppConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/controller/RESTController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/data/TodoRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/data/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/data/model/Todo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/data/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/persistence/FilePersistence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/persistence/FilePersistenceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/services/FileService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/classes/java/main/eci/ieti/services/FileServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/build/libs/ieti-mongodb-file-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/config/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/controller/RESTController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/data/TodoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/data/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/data/model/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/data/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/persistence/FilePersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/persistence/FilePersistenceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/services/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/services/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/eci/ieti/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/DrawerComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/NewTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/TaskCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/TaskLists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/TodoApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/fire.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/resources/img/app1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/resources/img/app2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/resources/img/app3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/resources/img/app4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/serviceWorkerRegistration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/controller/RESTController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/data/TodoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/data/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/data/model/Todo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/data/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/persistence/FilePersistence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/persistence/FilePersistenceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/services/FileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/eci/ieti/services/FileServiceImpl.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r1v3uBfuTPBRvW50oxSqat1PAV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="IETI-LAB10 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IETI-LAB10 [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="875c8780-0fb5-4ee3-a401-8eeb8dd08cfe" name="Default Changelist" comment="" />
+      <created>1618156220687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618156220687</updated>
+      <workItem from="1618156224326" duration="126000" />
+      <workItem from="1618156559540" duration="119000" />
+      <workItem from="1618156686326" duration="11000" />
+      <workItem from="1618156817690" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1618156891662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618156891662" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1618156891661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618156891661" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1618156891661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618156891661" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1618156891662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618156891662" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1618156861489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1618156861489" />
+  </component>
+</project>
